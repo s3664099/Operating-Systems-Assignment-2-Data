@@ -1,0 +1,26 @@
+16 read threads/16 write threads list size 5120
+Duration: 16426977 nanoseconds
+64 write threads list size 5120
+Duration: 47009105 nanoseconds
+64 write threads list size 5120
+Duration: 47229672 nanoseconds
+64 write threads list size 5120
+Duration: 47178055 nanoseconds
+64 write threads list size 5120
+Duration: 45845924 nanoseconds
+64 write threads list size 5120
+Duration: 48139347 nanoseconds
+64 write threads list size 5120
+Duration: 48049289 nanoseconds
+64 write threads list size 5120
+Duration: 47654691 nanoseconds
+64 write threads list size 5120
+Duration: 47855049 nanoseconds
+64 write threads list size 5120
+Duration: 45222081 nanoseconds
+64 write threads list size 5120
+Duration: 46831808 nanoseconds
+64 write threads list size 5120
+Duration: 44743155 nanoseconds
+64 write threads list size 5120
+Duration: 45779427 nanoseconds

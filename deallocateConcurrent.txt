@@ -1,0 +1,68 @@
+Reading list size - 40, 8 Times
+Duration: 256900 nanoseconds
+Reading list size - 40, 8 Times
+Duration: 258459 nanoseconds
+Reading list size - 40, 8 Times
+Duration: 277519 nanoseconds
+Reading list size - 40, 8 Times
+Duration: 262440 nanoseconds
+Reading list size - 40, 8 Times
+Duration: 274859 nanoseconds
+Reading list size - 40, 8 Times
+Duration: 225330 nanoseconds
+Reading list size - 40, 8 Times
+Duration: 230929 nanoseconds
+Reading list size - 40, 8 Times
+Duration: 255509 nanoseconds
+Reading list size - 80, 8 Times
+Duration: 272609 nanoseconds
+Reading list size - 80, 8 Times
+Duration: 264399 nanoseconds
+Reading list size - 80, 8 Times
+Duration: 257010 nanoseconds
+Reading list size - 80, 8 Times
+Duration: 267980 nanoseconds
+Reading list size - 80, 8 Times
+Duration: 258930 nanoseconds
+Reading list size - 80, 8 Times
+Duration: 333429 nanoseconds
+Reading list size - 80, 8 Times
+Duration: 354719 nanoseconds
+Reading list size - 80, 8 Times
+Duration: 291759 nanoseconds
+Reading list size - 80, 8 Times
+Duration: 252889 nanoseconds
+Reading list size - 80, 8 Times
+Duration: 291360 nanoseconds
+Reading list size - 160, 8 Times
+Duration: 263309 nanoseconds
+Reading list size - 160, 8 Times
+Duration: 277819 nanoseconds
+Reading list size - 160, 8 Times
+Duration: 271120 nanoseconds
+Reading list size - 160, 8 Times
+Duration: 593638 nanoseconds
+Reading list size - 160, 8 Times
+Duration: 276939 nanoseconds
+Reading list size - 160, 8 Times
+Duration: 1275177 nanoseconds
+Reading list size - 160, 8 Times
+Duration: 278829 nanoseconds
+Reading list size - 160, 8 Times
+Duration: 824598 nanoseconds
+Reading list size - 160, 8 Times
+Duration: 265449 nanoseconds
+Reading list size - 160, 8 Times
+Duration: 264959 nanoseconds
+Reading list size - 320, 8 Times
+Duration: 2532243 nanoseconds
+Reading list size - 320, 8 Times
+Duration: 2443303 nanoseconds
+Reading list size - 320, 8 Times
+Duration: 2177774 nanoseconds
+Reading list size - 320, 8 Times
+Duration: 2271443 nanoseconds
+Reading list size - 320, 8 Times
+Duration: 2337283 nanoseconds
+Reading list size - 320, 8 Times
+Duration: 2473832 nanoseconds

@@ -1,0 +1,185 @@
+First Fit
+Reading list size - 5000, no threads
+Duration: 7361526 nanoseconds
+First Fit
+Reading list size - 5000, no threads
+Duration: 6734492 nanoseconds
+First Fit
+Reading list size - 5000, no threads
+Duration: 8877594 nanoseconds
+First Fit
+Reading list size - 5000, no threads
+Duration: 6870831 nanoseconds
+First Fit
+Reading list size - 5000, no threads
+Duration: 4522331 nanoseconds
+First Fit
+Reading list size - 5000, no threads
+Duration: 4182384 nanoseconds
+First Fit
+Reading list size - 5000, no threads
+Duration: 4518481 nanoseconds
+First Fit
+Reading list size - 5000, no threads
+Duration: 6658523 nanoseconds
+First Fit
+Reading list size - 5000, no threads
+Duration: 6913260 nanoseconds
+First Fit
+Reading list size - 5000, no threads
+Duration: 7051510 nanoseconds
+First Fit
+Reading list size - 5000, no threads
+Duration: 4414232 nanoseconds
+First Fit
+
+First Fit
+Reading list size - 5000, 1 Times
+Duration: 3051646 nanoseconds
+First Fit
+Reading list size - 5000, 1 Times
+Duration: 3055557 nanoseconds
+First Fit
+Reading list size - 5000, 1 Times
+Duration: 3015386 nanoseconds
+First Fit
+Reading list size - 5000, 1 Times
+Duration: 3036417 nanoseconds
+First Fit
+Reading list size - 5000, 1 Times
+Duration: 2985316 nanoseconds
+First Fit
+Reading list size - 5000, 1 Times
+Duration: 3181186 nanoseconds
+First Fit
+Reading list size - 5000, 1 Times
+Duration: 3241316 nanoseconds
+First Fit
+Reading list size - 5000, 1 Times
+Duration: 3053506 nanoseconds
+First Fit
+Reading list size - 5000, 1 Times
+Duration: 3134776 nanoseconds
+First Fit
+Reading list size - 5000, 1 Times
+Duration: 3062846 nanoseconds
+First Fit
+Reading list size - 5000, 2 Times
+Duration: 3327015 nanoseconds
+First Fit
+Reading list size - 5000, 2 Times
+Duration: 3114966 nanoseconds
+First Fit
+Reading list size - 5000, 2 Times
+Duration: 3076607 nanoseconds
+First Fit
+Reading list size - 5000, 2 Times
+Duration: 3031586 nanoseconds
+First Fit
+Reading list size - 5000, 2 Times
+Duration: 3175216 nanoseconds
+First Fit
+Reading list size - 5000, 2 Times
+Duration: 3107486 nanoseconds
+First Fit
+Reading list size - 5000, 2 Times
+Duration: 2315400 nanoseconds
+First Fit
+Reading list size - 5000, 2 Times
+Duration: 3105346 nanoseconds
+First Fit
+Reading list size - 5000, 2 Times
+Duration: 3100636 nanoseconds
+First Fit
+Reading list size - 5000, 2 Times
+Duration: 3305455 nanoseconds
+First Fit
+Reading list size - 5000, 4 Times
+Duration: 2264459 nanoseconds
+First Fit
+Reading list size - 5000, 4 Times
+Duration: 22912422 nanoseconds
+First Fit
+Reading list size - 5000, 4 Times
+Duration: 28393802 nanoseconds
+First Fit
+Reading list size - 5000, 4 Times
+Duration: 23598087 nanoseconds
+First Fit
+Reading list size - 5000, 4 Times
+Duration: 24027165 nanoseconds
+First Fit
+Reading list size - 5000, 4 Times
+Duration: 22046085 nanoseconds
+First Fit
+Reading list size - 5000, 4 Times
+Duration: 20049626 nanoseconds
+First Fit
+Reading list size - 5000, 4 Times
+Duration: 27138149 nanoseconds
+First Fit
+Reading list size - 5000, 4 Times
+Duration: 21259060 nanoseconds
+First Fit
+Reading list size - 5000, 4 Times
+Duration: 25131830 nanoseconds
+First Fit
+Reading list size - 5000, 8 Times
+Duration: 27997663 nanoseconds
+First Fit
+Reading list size - 5000, 8 Times
+Duration: 23117719 nanoseconds
+First Fit
+Reading list size - 5000, 8 Times
+Duration: 25339567 nanoseconds
+First Fit
+Reading list size - 5000, 8 Times
+Duration: 27437346 nanoseconds
+First Fit
+Reading list size - 5000, 8 Times
+Duration: 22026545 nanoseconds
+First Fit
+Reading list size - 5000, 8 Times
+Duration: 24026274 nanoseconds
+First Fit
+Reading list size - 5000, 8 Times
+Duration: 24644070 nanoseconds
+First Fit
+Reading list size - 5000, 8 Times
+Duration: 22495411 nanoseconds
+First Fit
+Reading list size - 5000, 8 Times
+Duration: 22283572 nanoseconds
+First Fit
+Reading list size - 5000, 16 Times
+Duration: 13145227 nanoseconds
+First Fit
+Reading list size - 5000, 16 Times
+Duration: 15802331 nanoseconds
+First Fit
+Reading list size - 5000, 16 Times
+Duration: 17063245 nanoseconds
+First Fit
+Reading list size - 5000, 16 Times
+Duration: 16046566 nanoseconds
+First Fit
+Reading list size - 5000, 1 Times
+Duration: 51647460 nanoseconds
+First Fit
+Reading list size - 5000, 2 Times
+Duration: 27126357 nanoseconds
+First Fit
+Reading list size - 5000, 2 Times
+Duration: 28491069 nanoseconds
+First Fit
+Reading list size - 5000, 2 Times
+Duration: 29727002 nanoseconds
+First Fit
+Reading list size - 500, 4 Times
+Duration: 6010683 nanoseconds
+First Fit
+Reading list size - 500, 4 Times
+Duration: 6387902 nanoseconds
+First Fit
+Reading list size - 500, 4 Times
+Duration: 6165723 nanoseconds

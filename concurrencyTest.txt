@@ -1,0 +1,1404 @@
+4 write threads list size 40
+Duration: 247450 nanoseconds
+4 write threads list size 40
+Duration: 493150 nanoseconds
+4 write threads list size 40
+Duration: 615054 nanoseconds
+4 write threads list size 40
+Duration: 375984 nanoseconds
+4 write threads list size 40
+Duration: 712501 nanoseconds
+4 write threads list size 40
+Duration: 396454 nanoseconds
+4 write threads list size 40
+Duration: 365415 nanoseconds
+4 write threads list size 40
+Duration: 366015 nanoseconds
+4 write threads list size 40
+Duration: 340056 nanoseconds
+4 write threads list size 40
+Duration: 295338 nanoseconds
+4 write threads list size 80
+Duration: 548718 nanoseconds
+4 write threads list size 80
+Duration: 549039 nanoseconds
+4 write threads list size 80
+Duration: 520370 nanoseconds
+4 write threads list size 80
+Duration: 530699 nanoseconds
+4 write threads list size 80
+Duration: 391505 nanoseconds
+4 write threads list size 80
+Duration: 345617 nanoseconds
+4 write threads list size 80
+Duration: 407765 nanoseconds
+4 write threads list size 80
+Duration: 454683 nanoseconds
+4 write threads list size 80
+Duration: 398895 nanoseconds
+4 write threads list size 80
+Duration: 337307 nanoseconds
+4 write threads list size 160
+Duration: 812490 nanoseconds
+4 write threads list size 160
+Duration: 990383 nanoseconds
+4 write threads list size 160
+Duration: 837469 nanoseconds
+4 write threads list size 160
+Duration: 603537 nanoseconds
+4 write threads list size 160
+Duration: 483022 nanoseconds
+4 write threads list size 160
+Duration: 717563 nanoseconds
+4 write threads list size 160
+Duration: 841069 nanoseconds
+4 write threads list size 160
+Duration: 718583 nanoseconds
+4 write threads list size 160
+Duration: 714884 nanoseconds
+4 write threads list size 160
+Duration: 689094 nanoseconds
+4 write threads list size 320
+Duration: 1580812 nanoseconds
+4 write threads list size 320
+Duration: 1471217 nanoseconds
+4 write threads list size 320
+Duration: 1434758 nanoseconds
+4 write threads list size 320
+Duration: 1005633 nanoseconds
+4 write threads list size 320
+Duration: 936056 nanoseconds
+4 write threads list size 320
+Duration: 1423889 nanoseconds
+4 write threads list size 320
+Duration: 1089061 nanoseconds
+4 write threads list size 320
+Duration: 1225305 nanoseconds
+4 write threads list size 320
+Duration: 1478477 nanoseconds
+4 write threads list size 320
+Duration: 1165558 nanoseconds
+4 write threads list size 640
+Duration: 1934613 nanoseconds
+4 write threads list size 640
+Duration: 1779929 nanoseconds
+4 write threads list size 640
+Duration: 1974051 nanoseconds
+4 write threads list size 640
+Duration: 1931213 nanoseconds
+4 write threads list size 640
+Duration: 1816867 nanoseconds
+4 write threads list size 640
+Duration: 1794018 nanoseconds
+4 write threads list size 640
+Duration: 2062049 nanoseconds
+4 write threads list size 640
+Duration: 1862385 nanoseconds
+4 write threads list size 640
+Duration: 1733081 nanoseconds
+4 write threads list size 640
+Duration: 1526698 nanoseconds
+4 write threads list size 1280
+Duration: 4640465 nanoseconds
+4 write threads list size 1280
+Duration: 4548347 nanoseconds
+4 write threads list size 1280
+Duration: 3796534 nanoseconds
+4 write threads list size 1280
+Duration: 4740401 nanoseconds
+4 write threads list size 1280
+Duration: 4889228 nanoseconds
+4 write threads list size 1280
+Duration: 4773330 nanoseconds
+4 write threads list size 1280
+Duration: 3915080 nanoseconds
+4 write threads list size 1280
+Duration: 4844359 nanoseconds
+4 write threads list size 1280
+Duration: 4675045 nanoseconds
+4 write threads list size 1280
+Duration: 4351975 nanoseconds
+4 write threads list size 2560
+Duration: 8056846 nanoseconds
+4 write threads list size 2560
+Duration: 8493292 nanoseconds
+4 write threads list size 2560
+Duration: 8179222 nanoseconds
+4 write threads list size 2560
+Duration: 7753676 nanoseconds
+4 write threads list size 2560
+Duration: 6960530 nanoseconds
+4 write threads list size 2560
+Duration: 8855462 nanoseconds
+4 write threads list size 2560
+Duration: 8158484 nanoseconds
+4 write threads list size 2560
+Duration: 9155132 nanoseconds
+4 write threads list size 2560
+Duration: 6535705 nanoseconds
+4 write threads list size 2560
+Duration: 8183933 nanoseconds
+4 write threads list size 5120
+Duration: 11927024 nanoseconds
+4 write threads list size 5120
+Duration: 11656082 nanoseconds
+4 write threads list size 5120
+Duration: 10872425 nanoseconds
+4 write threads list size 5120
+Duration: 10119718 nanoseconds
+4 write threads list size 5120
+Duration: 13392431 nanoseconds
+4 write threads list size 5120
+Duration: 12882775 nanoseconds
+4 write threads list size 5120
+Duration: 12337733 nanoseconds
+4 write threads list size 5120
+Duration: 12792509 nanoseconds
+4 write threads list size 5120
+Duration: 13126109 nanoseconds
+4 write threads list size 5120
+Duration: 13652723 nanoseconds
+16 write threads list size 40
+Duration: 904744 nanoseconds
+16 write threads list size 40
+Duration: 1118218 nanoseconds
+16 write threads list size 40
+Duration: 997081 nanoseconds
+16 write threads list size 40
+Duration: 992202 nanoseconds
+16 write threads list size 40
+Duration: 805127 nanoseconds
+16 write threads list size 40
+Duration: 887805 nanoseconds
+16 write threads list size 40
+Duration: 892965 nanoseconds
+16 write threads list size 40
+Duration: 1144818 nanoseconds
+16 write threads list size 40
+Duration: 976263 nanoseconds
+16 write threads list size 40
+Duration: 865455 nanoseconds
+16 write threads list size 80
+Duration: 2462593 nanoseconds
+16 write threads list size 80
+Duration: 1811370 nanoseconds
+16 write threads list size 80
+Duration: 2373425 nanoseconds
+16 write threads list size 80
+Duration: 2396175 nanoseconds
+16 write threads list size 80
+Duration: 2258148 nanoseconds
+16 write threads list size 80
+Duration: 1319974 nanoseconds
+16 write threads list size 80
+Duration: 1023912 nanoseconds
+16 write threads list size 80
+Duration: 2811973 nanoseconds
+16 write threads list size 80
+Duration: 2120363 nanoseconds
+16 write threads list size 80
+Duration: 2100373 nanoseconds
+16 write threads list size 160
+Duration: 4874249 nanoseconds
+16 write threads list size 160
+Duration: 4925398 nanoseconds
+16 write threads list size 160
+Duration: 4605698 nanoseconds
+16 write threads list size 160
+Duration: 4897459 nanoseconds
+16 write threads list size 160
+Duration: 5061826 nanoseconds
+16 write threads list size 160
+Duration: 5039036 nanoseconds
+16 write threads list size 160
+Duration: 4427852 nanoseconds
+16 write threads list size 160
+Duration: 4500730 nanoseconds
+16 write threads list size 160
+Duration: 5036006 nanoseconds
+16 write threads list size 160
+Duration: 5041956 nanoseconds
+16 write threads list size 320
+Duration: 9652230 nanoseconds
+16 write threads list size 320
+Duration: 10167146 nanoseconds
+16 write threads list size 320
+Duration: 9247870 nanoseconds
+16 write threads list size 320
+Duration: 8350654 nanoseconds
+16 write threads list size 320
+Duration: 8262316 nanoseconds
+16 write threads list size 320
+Duration: 8478222 nanoseconds
+16 write threads list size 320
+Duration: 9236111 nanoseconds
+16 write threads list size 320
+Duration: 8811742 nanoseconds
+16 write threads list size 320
+Duration: 8486101 nanoseconds
+16 write threads list size 320
+Duration: 10410873 nanoseconds
+16 write threads list size 640
+Duration: 16041408 nanoseconds
+16 write threads list size 640
+Duration: 14415419 nanoseconds
+16 write threads list size 640
+Duration: 13900712 nanoseconds
+16 write threads list size 640
+Duration: 15179351 nanoseconds
+16 write threads list size 640
+Duration: 14849359 nanoseconds
+16 write threads list size 640
+Duration: 16358841 nanoseconds
+16 write threads list size 640
+Duration: 13164132 nanoseconds
+16 write threads list size 640
+Duration: 12307043 nanoseconds
+16 write threads list size 640
+Duration: 12360832 nanoseconds
+16 write threads list size 640
+Duration: 15643620 nanoseconds
+16 write threads list size 1280
+Duration: 25081514 nanoseconds
+16 write threads list size 1280
+Duration: 27425297 nanoseconds
+16 write threads list size 1280
+Duration: 25932443 nanoseconds
+16 write threads list size 1280
+Duration: 28020463 nanoseconds
+16 write threads list size 1280
+Duration: 25378508 nanoseconds
+16 write threads list size 1280
+Duration: 24897040 nanoseconds
+16 write threads list size 1280
+Duration: 25770889 nanoseconds
+16 write threads list size 1280
+Duration: 25149965 nanoseconds
+16 write threads list size 1280
+Duration: 24714915 nanoseconds
+16 write threads list size 1280
+Duration: 24661177 nanoseconds
+16 write threads list size 2560
+Duration: 47280219 nanoseconds
+16 write threads list size 2560
+Duration: 45475421 nanoseconds
+16 write threads list size 2560
+Duration: 50784380 nanoseconds
+16 write threads list size 2560
+Duration: 40240956 nanoseconds
+16 write threads list size 2560
+Duration: 51839644 nanoseconds
+16 write threads list size 2560
+Duration: 49785074 nanoseconds
+16 write threads list size 2560
+Duration: 49299555 nanoseconds
+16 write threads list size 2560
+Duration: 44552276 nanoseconds
+16 write threads list size 2560
+Duration: 46049933 nanoseconds
+16 write threads list size 2560
+Duration: 49263679 nanoseconds
+16 write threads list size 5120
+Duration: 79169360 nanoseconds
+16 write threads list size 5120
+Duration: 86265060 nanoseconds
+16 write threads list size 5120
+Duration: 84174979 nanoseconds
+16 write threads list size 5120
+Duration: 86738071 nanoseconds
+16 write threads list size 5120
+Duration: 79275382 nanoseconds
+16 write threads list size 5120
+Duration: 78366052 nanoseconds
+16 write threads list size 5120
+Duration: 81448883 nanoseconds
+16 write threads list size 5120
+Duration: 83654638 nanoseconds
+16 write threads list size 5120
+Duration: 89505905 nanoseconds
+16 write threads list size 5120
+Duration: 87139963 nanoseconds
+64 write threads list size 80
+Duration: 2634779 nanoseconds
+64 write threads list size 80
+Duration: 2663288 nanoseconds
+64 write threads list size 80
+Duration: 2715447 nanoseconds
+64 write threads list size 80
+Duration: 2619009 nanoseconds
+64 write threads list size 80
+Duration: 2490231 nanoseconds
+64 write threads list size 80
+Duration: 2677557 nanoseconds
+64 write threads list size 80
+Duration: 2619639 nanoseconds
+64 write threads list size 80
+Duration: 2677588 nanoseconds
+64 write threads list size 80
+Duration: 2646509 nanoseconds
+64 write threads list size 80
+Duration: 2678948 nanoseconds
+64 write threads list size 160
+Duration: 2777680 nanoseconds
+64 write threads list size 160
+Duration: 2742400 nanoseconds
+64 write threads list size 160
+Duration: 2798030 nanoseconds
+64 write threads list size 160
+Duration: 2796229 nanoseconds
+64 write threads list size 160
+Duration: 2770359 nanoseconds
+64 write threads list size 160
+Duration: 2804410 nanoseconds
+64 write threads list size 160
+Duration: 2838439 nanoseconds
+64 write threads list size 160
+Duration: 2745200 nanoseconds
+64 write threads list size 160
+Duration: 2840439 nanoseconds
+64 write threads list size 160
+Duration: 2718541 nanoseconds
+64 write threads list size 320
+Duration: 2901259 nanoseconds
+64 write threads list size 320
+Duration: 2767711 nanoseconds
+64 write threads list size 320
+Duration: 2925518 nanoseconds
+64 write threads list size 320
+Duration: 2911289 nanoseconds
+64 write threads list size 320
+Duration: 2798811 nanoseconds
+64 write threads list size 320
+Duration: 2709923 nanoseconds
+64 write threads list size 320
+Duration: 2893129 nanoseconds
+64 write threads list size 320
+Duration: 2829540 nanoseconds
+64 write threads list size 320
+Duration: 2438857 nanoseconds
+64 write threads list size 320
+Duration: 2703763 nanoseconds
+64 write threads list size 640
+Duration: 2906180 nanoseconds
+64 write threads list size 640
+Duration: 2893011 nanoseconds
+64 write threads list size 640
+Duration: 2838042 nanoseconds
+64 write threads list size 640
+Duration: 2877961 nanoseconds
+64 write threads list size 640
+Duration: 2912880 nanoseconds
+64 write threads list size 640
+Duration: 2435899 nanoseconds
+64 write threads list size 640
+Duration: 2889691 nanoseconds
+64 write threads list size 640
+Duration: 2831332 nanoseconds
+64 write threads list size 640
+Duration: 2831983 nanoseconds
+64 write threads list size 640
+Duration: 6184736 nanoseconds
+64 write threads list size 1280
+Duration: 7113583 nanoseconds
+64 write threads list size 1280
+Duration: 7792952 nanoseconds
+64 write threads list size 1280
+Duration: 9165270 nanoseconds
+64 write threads list size 1280
+Duration: 8112657 nanoseconds
+64 write threads list size 1280
+Duration: 9116470 nanoseconds
+64 write threads list size 1280
+Duration: 11109198 nanoseconds
+64 write threads list size 1280
+Duration: 11930996 nanoseconds
+64 write threads list size 1280
+Duration: 9635372 nanoseconds
+64 write threads list size 1280
+Duration: 7249432 nanoseconds
+64 write threads list size 1280
+Duration: 9092932 nanoseconds
+64 write threads list size 2560
+Duration: 14959781 nanoseconds
+64 write threads list size 2560
+Duration: 12555069 nanoseconds
+64 write threads list size 2560
+Duration: 15143838 nanoseconds
+64 write threads list size 2560
+Duration: 14154714 nanoseconds
+64 write threads list size 2560
+Duration: 16969969 nanoseconds
+64 write threads list size 2560
+Duration: 15244548 nanoseconds
+64 write threads list size 2560
+Duration: 15540952 nanoseconds
+64 write threads list size 2560
+Duration: 15615481 nanoseconds
+64 write threads list size 2560
+Duration: 16755983 nanoseconds
+64 write threads list size 2560
+Duration: 16395019 nanoseconds
+64 write threads list size 5120
+Duration: 25721528 nanoseconds
+64 write threads list size 5120
+Duration: 26784551 nanoseconds
+64 write threads list size 5120
+Duration: 24841011 nanoseconds
+64 write threads list size 5120
+Duration: 24944570 nanoseconds
+64 write threads list size 5120
+Duration: 29517909 nanoseconds
+64 write threads list size 5120
+Duration: 26024124 nanoseconds
+64 write threads list size 5120
+Duration: 27095658 nanoseconds
+64 write threads list size 5120
+Duration: 27214396 nanoseconds
+64 write threads list size 5120
+Duration: 26217842 nanoseconds
+64 write threads list size 5120
+Duration: 25537152 nanoseconds
+4 read threads list size 40
+Duration: 231347 nanoseconds
+4 read threads list size 40
+Duration: 260497 nanoseconds
+4 read threads list size 40
+Duration: 313646 nanoseconds
+4 read threads list size 40
+Duration: 317917 nanoseconds
+4 read threads list size 40
+Duration: 288787 nanoseconds
+4 read threads list size 40
+Duration: 234847 nanoseconds
+4 read threads list size 40
+Duration: 264587 nanoseconds
+4 read threads list size 40
+Duration: 296747 nanoseconds
+4 read threads list size 40
+Duration: 236548 nanoseconds
+4 read threads list size 40
+Duration: 241137 nanoseconds
+4 read threads list size 80
+Duration: 280717 nanoseconds
+4 read threads list size 80
+Duration: 339437 nanoseconds
+4 read threads list size 80
+Duration: 397096 nanoseconds
+4 read threads list size 80
+Duration: 315886 nanoseconds
+4 read threads list size 80
+Duration: 282927 nanoseconds
+4 read threads list size 80
+Duration: 341226 nanoseconds
+4 read threads list size 80
+Duration: 383836 nanoseconds
+4 read threads list size 80
+Duration: 379726 nanoseconds
+4 read threads list size 80
+Duration: 397275 nanoseconds
+4 read threads list size 80
+Duration: 253158 nanoseconds
+4 read threads list size 160
+Duration: 514354 nanoseconds
+4 read threads list size 160
+Duration: 520094 nanoseconds
+4 read threads list size 160
+Duration: 407746 nanoseconds
+4 read threads list size 160
+Duration: 471325 nanoseconds
+4 read threads list size 160
+Duration: 380366 nanoseconds
+4 read threads list size 160
+Duration: 398455 nanoseconds
+4 read threads list size 160
+Duration: 490995 nanoseconds
+4 read threads list size 160
+Duration: 389246 nanoseconds
+4 read threads list size 160
+Duration: 523144 nanoseconds
+4 read threads list size 160
+Duration: 451306 nanoseconds
+4 read threads list size 320
+Duration: 580094 nanoseconds
+4 read threads list size 320
+Duration: 568095 nanoseconds
+4 read threads list size 320
+Duration: 553835 nanoseconds
+4 read threads list size 320
+Duration: 802921 nanoseconds
+4 read threads list size 320
+Duration: 808192 nanoseconds
+4 read threads list size 320
+Duration: 1084349 nanoseconds
+4 read threads list size 320
+Duration: 622534 nanoseconds
+4 read threads list size 320
+Duration: 802932 nanoseconds
+4 read threads list size 320
+Duration: 807502 nanoseconds
+4 read threads list size 320
+Duration: 703333 nanoseconds
+4 read threads list size 640
+Duration: 896081 nanoseconds
+4 read threads list size 640
+Duration: 1073149 nanoseconds
+4 read threads list size 640
+Duration: 707673 nanoseconds
+4 read threads list size 640
+Duration: 1277437 nanoseconds
+4 read threads list size 640
+Duration: 1244227 nanoseconds
+4 read threads list size 640
+Duration: 1241097 nanoseconds
+4 read threads list size 640
+Duration: 1098539 nanoseconds
+4 read threads list size 640
+Duration: 1124419 nanoseconds
+4 read threads list size 640
+Duration: 1269027 nanoseconds
+4 read threads list size 640
+Duration: 1266078 nanoseconds
+4 read threads list size 1280
+Duration: 1786572 nanoseconds
+4 read threads list size 1280
+Duration: 1470236 nanoseconds
+4 read threads list size 1280
+Duration: 1865891 nanoseconds
+4 read threads list size 1280
+Duration: 2059049 nanoseconds
+4 read threads list size 1280
+Duration: 1983040 nanoseconds
+4 read threads list size 1280
+Duration: 2334117 nanoseconds
+4 read threads list size 1280
+Duration: 2187698 nanoseconds
+4 read threads list size 1280
+Duration: 1952471 nanoseconds
+4 read threads list size 1280
+Duration: 1725492 nanoseconds
+4 read threads list size 1280
+Duration: 2334047 nanoseconds
+4 read threads list size 2560
+Duration: 3154389 nanoseconds
+4 read threads list size 2560
+Duration: 2879122 nanoseconds
+4 read threads list size 2560
+Duration: 3579865 nanoseconds
+4 read threads list size 2560
+Duration: 3216759 nanoseconds
+4 read threads list size 2560
+Duration: 3623205 nanoseconds
+4 read threads list size 2560
+Duration: 3181659 nanoseconds
+4 read threads list size 2560
+Duration: 3026231 nanoseconds
+4 read threads list size 2560
+Duration: 3155839 nanoseconds
+4 read threads list size 2560
+Duration: 3347387 nanoseconds
+4 read threads list size 2560
+Duration: 2749883 nanoseconds
+4 read threads list size 5120
+Duration: 6571067 nanoseconds
+4 read threads list size 5120
+Duration: 5234870 nanoseconds
+4 read threads list size 5120
+Duration: 6521948 nanoseconds
+4 read threads list size 5120
+Duration: 5336348 nanoseconds
+4 read threads list size 5120
+Duration: 5912254 nanoseconds
+4 read threads list size 5120
+Duration: 5879524 nanoseconds
+4 read threads list size 5120
+Duration: 6331939 nanoseconds
+4 read threads list size 5120
+Duration: 6179051 nanoseconds
+4 read threads list size 5120
+Duration: 6197291 nanoseconds
+4 read threads list size 5120
+Duration: 6511398 nanoseconds
+16 read threads list size 40
+Duration: 715963 nanoseconds
+16 read threads list size 40
+Duration: 763253 nanoseconds
+16 read threads list size 40
+Duration: 698543 nanoseconds
+16 read threads list size 40
+Duration: 793813 nanoseconds
+16 read threads list size 40
+Duration: 685584 nanoseconds
+16 read threads list size 40
+Duration: 697113 nanoseconds
+16 read threads list size 40
+Duration: 677603 nanoseconds
+16 read threads list size 40
+Duration: 746703 nanoseconds
+16 read threads list size 40
+Duration: 661504 nanoseconds
+16 read threads list size 40
+Duration: 723914 nanoseconds
+16 read threads list size 80
+Duration: 817552 nanoseconds
+16 read threads list size 80
+Duration: 873402 nanoseconds
+16 read threads list size 80
+Duration: 818043 nanoseconds
+16 read threads list size 80
+Duration: 766703 nanoseconds
+16 read threads list size 80
+Duration: 850503 nanoseconds
+16 read threads list size 80
+Duration: 697864 nanoseconds
+16 read threads list size 80
+Duration: 971661 nanoseconds
+16 read threads list size 80
+Duration: 749704 nanoseconds
+16 read threads list size 80
+Duration: 870312 nanoseconds
+16 read threads list size 80
+Duration: 779143 nanoseconds
+16 read threads list size 80
+Duration: 731273 nanoseconds
+16 read threads list size 160
+Duration: 1412457 nanoseconds
+16 read threads list size 160
+Duration: 1163270 nanoseconds
+16 read threads list size 160
+Duration: 1065711 nanoseconds
+16 read threads list size 160
+Duration: 1247759 nanoseconds
+16 read threads list size 160
+Duration: 1145039 nanoseconds
+16 read threads list size 160
+Duration: 1466617 nanoseconds
+16 read threads list size 160
+Duration: 1107530 nanoseconds
+16 read threads list size 160
+Duration: 1164569 nanoseconds
+16 read threads list size 160
+Duration: 981141 nanoseconds
+16 read threads list size 160
+Duration: 1446657 nanoseconds
+16 read threads list size 320
+Duration: 1717745 nanoseconds
+16 read threads list size 320
+Duration: 1717135 nanoseconds
+16 read threads list size 320
+Duration: 1898193 nanoseconds
+16 read threads list size 320
+Duration: 1730245 nanoseconds
+16 read threads list size 320
+Duration: 2200811 nanoseconds
+16 read threads list size 320
+Duration: 1709255 nanoseconds
+16 read threads list size 320
+Duration: 2195851 nanoseconds
+16 read threads list size 320
+Duration: 2376959 nanoseconds
+16 read threads list size 320
+Duration: 2555157 nanoseconds
+16 read threads list size 320
+Duration: 2096652 nanoseconds
+16 read threads list size 640
+Duration: 3776697 nanoseconds
+16 read threads list size 640
+Duration: 3523750 nanoseconds
+16 read threads list size 640
+Duration: 3611319 nanoseconds
+16 read threads list size 640
+Duration: 4181444 nanoseconds
+16 read threads list size 640
+Duration: 4225193 nanoseconds
+16 read threads list size 640
+Duration: 3999765 nanoseconds
+16 read threads list size 640
+Duration: 2969384 nanoseconds
+16 read threads list size 640
+Duration: 2809015 nanoseconds
+16 read threads list size 640
+Duration: 3168713 nanoseconds
+16 read threads list size 640
+Duration: 4296013 nanoseconds
+16 read threads list size 1280
+Duration: 5313355 nanoseconds
+16 read threads list size 1280
+Duration: 6374936 nanoseconds
+16 read threads list size 1280
+Duration: 6181807 nanoseconds
+16 read threads list size 1280
+Duration: 6538604 nanoseconds
+16 read threads list size 1280
+Duration: 6780623 nanoseconds
+16 read threads list size 1280
+Duration: 7140430 nanoseconds
+16 read threads list size 1280
+Duration: 6760693 nanoseconds
+16 read threads list size 1280
+Duration: 6896571 nanoseconds
+16 read threads list size 1280
+Duration: 6340357 nanoseconds
+16 read threads list size 1280
+Duration: 6206948 nanoseconds
+16 read threads list size 2560
+Duration: 11087518 nanoseconds
+16 read threads list size 2560
+Duration: 10688051 nanoseconds
+16 read threads list size 2560
+Duration: 11892492 nanoseconds
+16 read threads list size 2560
+Duration: 10407663 nanoseconds
+16 read threads list size 2560
+Duration: 10919690 nanoseconds
+16 read threads list size 2560
+Duration: 10649641 nanoseconds
+16 read threads list size 2560
+Duration: 10899869 nanoseconds
+16 read threads list size 2560
+Duration: 9155764 nanoseconds
+16 read threads list size 2560
+Duration: 9530641 nanoseconds
+16 read threads list size 2560
+Duration: 10489583 nanoseconds
+16 read threads list size 5120
+Duration: 17155530 nanoseconds
+16 read threads list size 5120
+Duration: 17577427 nanoseconds
+16 read threads list size 5120
+Duration: 17095269 nanoseconds
+16 read threads list size 5120
+Duration: 15831610 nanoseconds
+16 read threads list size 5120
+Duration: 16107578 nanoseconds
+16 read threads list size 5120
+Duration: 16644033 nanoseconds
+16 read threads list size 5120
+Duration: 15576013 nanoseconds
+16 read threads list size 5120
+Duration: 15764582 nanoseconds
+16 read threads list size 5120
+Duration: 15429003 nanoseconds
+16 read threads list size 5120
+Duration: 16555755 nanoseconds
+64 read threads list size 40
+Duration: 2590029 nanoseconds
+64 read threads list size 40
+Duration: 2337022 nanoseconds
+64 read threads list size 40
+Duration: 2379131 nanoseconds
+64 read threads list size 40
+Duration: 2364201 nanoseconds
+64 read threads list size 40
+Duration: 2422381 nanoseconds
+64 read threads list size 40
+Duration: 2247012 nanoseconds
+64 read threads list size 40
+Duration: 2349082 nanoseconds
+64 read threads list size 40
+Duration: 2287022 nanoseconds
+64 read threads list size 40
+Duration: 2506560 nanoseconds
+64 read threads list size 40
+Duration: 2650829 nanoseconds
+64 read threads list size 80
+Duration: 3163715 nanoseconds
+64 read threads list size 80
+Duration: 3118766 nanoseconds
+64 read threads list size 80
+Duration: 2018025 nanoseconds
+64 read threads list size 80
+Duration: 2427481 nanoseconds
+64 read threads list size 80
+Duration: 2502891 nanoseconds
+64 read threads list size 80
+Duration: 2347521 nanoseconds
+64 read threads list size 80
+Duration: 2507171 nanoseconds
+64 read threads list size 80
+Duration: 2458531 nanoseconds
+64 read threads list size 80
+Duration: 2353351 nanoseconds
+64 read threads list size 80
+Duration: 2380632 nanoseconds
+64 read threads list size 160
+Duration: 4222168 nanoseconds
+64 read threads list size 160
+Duration: 3514333 nanoseconds
+64 read threads list size 160
+Duration: 3261005 nanoseconds
+64 read threads list size 160
+Duration: 3807821 nanoseconds
+64 read threads list size 160
+Duration: 3681802 nanoseconds
+64 read threads list size 160
+Duration: 3644792 nanoseconds
+64 read threads list size 160
+Duration: 3641492 nanoseconds
+64 read threads list size 160
+Duration: 3837040 nanoseconds
+64 read threads list size 160
+Duration: 3651452 nanoseconds
+64 read threads list size 160
+Duration: 3476134 nanoseconds
+64 read threads list size 320
+Duration: 6738569 nanoseconds
+64 read threads list size 320
+Duration: 5946765 nanoseconds
+64 read threads list size 320
+Duration: 5537999 nanoseconds
+64 read threads list size 320
+Duration: 5177251 nanoseconds
+64 read threads list size 320
+Duration: 7212126 nanoseconds
+64 read threads list size 320
+Duration: 6921817 nanoseconds
+64 read threads list size 320
+Duration: 7051517 nanoseconds
+64 read threads list size 320
+Duration: 5832786 nanoseconds
+64 read threads list size 320
+Duration: 5408829 nanoseconds
+64 read threads list size 320
+Duration: 5827046 nanoseconds
+64 read threads list size 640
+Duration: 10672911 nanoseconds
+64 read threads list size 640
+Duration: 10858100 nanoseconds
+64 read threads list size 640
+Duration: 9551169 nanoseconds
+64 read threads list size 640
+Duration: 9385421 nanoseconds
+64 read threads list size 640
+Duration: 10981499 nanoseconds
+64 read threads list size 640
+Duration: 11208567 nanoseconds
+64 read threads list size 640
+Duration: 9472250 nanoseconds
+64 read threads list size 640
+Duration: 8929214 nanoseconds
+64 read threads list size 640
+Duration: 9780308 nanoseconds
+64 read threads list size 640
+Duration: 9312452 nanoseconds
+64 read threads list size 1280
+Duration: 19718937 nanoseconds
+64 read threads list size 1280
+Duration: 16321401 nanoseconds
+64 read threads list size 1280
+Duration: 16398931 nanoseconds
+64 read threads list size 1280
+Duration: 15774855 nanoseconds
+64 read threads list size 1280
+Duration: 14686483 nanoseconds
+64 read threads list size 1280
+Duration: 17142606 nanoseconds
+64 read threads list size 1280
+Duration: 16344381 nanoseconds
+64 read threads list size 1280
+Duration: 16264001 nanoseconds
+64 read threads list size 1280
+Duration: 15090249 nanoseconds
+64 read threads list size 1280
+Duration: 16328001 nanoseconds
+64 read threads list size 2560
+Duration: 26426020 nanoseconds
+64 read threads list size 2560
+Duration: 25665135 nanoseconds
+64 read threads list size 2560
+Duration: 27033836 nanoseconds
+64 read threads list size 2560
+Duration: 26341712 nanoseconds
+64 read threads list size 2560
+Duration: 27184146 nanoseconds
+64 read threads list size 2560
+Duration: 26484010 nanoseconds
+64 read threads list size 2560
+Duration: 27033057 nanoseconds
+64 read threads list size 2560
+Duration: 27282135 nanoseconds
+64 read threads list size 2560
+Duration: 26092393 nanoseconds
+64 read threads list size 2560
+Duration: 25109261 nanoseconds
+2 read threads/2 write threads list size 40
+Duration: 259648 nanoseconds
+2 read threads/2 write threads list size 40
+Duration: 295578 nanoseconds
+2 read threads/2 write threads list size 40
+Duration: 338828 nanoseconds
+2 read threads/2 write threads list size 40
+Duration: 298209 nanoseconds
+2 read threads/2 write threads list size 40
+Duration: 369227 nanoseconds
+2 read threads/2 write threads list size 40
+Duration: 333098 nanoseconds
+2 read threads/2 write threads list size 40
+Duration: 335218 nanoseconds
+2 read threads/2 write threads list size 40
+Duration: 303988 nanoseconds
+2 read threads/2 write threads list size 40
+Duration: 332278 nanoseconds
+2 read threads/2 write threads list size 40
+Duration: 277418 nanoseconds
+2 read threads/2 write threads list size 80
+Duration: 318848 nanoseconds
+2 read threads/2 write threads list size 80
+Duration: 386038 nanoseconds
+2 read threads/2 write threads list size 80
+Duration: 426527 nanoseconds
+2 read threads/2 write threads list size 80
+Duration: 594416 nanoseconds
+2 read threads/2 write threads list size 80
+Duration: 361917 nanoseconds
+2 read threads/2 write threads list size 80
+Duration: 381708 nanoseconds
+2 read threads/2 write threads list size 80
+Duration: 417998 nanoseconds
+2 read threads/2 write threads list size 80
+Duration: 562356 nanoseconds
+2 read threads/2 write threads list size 80
+Duration: 391818 nanoseconds
+2 read threads/2 write threads list size 80
+Duration: 380948 nanoseconds
+2 read threads/2 write threads list size 160
+Duration: 455567 nanoseconds
+2 read threads/2 write threads list size 160
+Duration: 548907 nanoseconds
+2 read threads/2 write threads list size 160
+Duration: 471927 nanoseconds
+2 read threads/2 write threads list size 160
+Duration: 488047 nanoseconds
+2 read threads/2 write threads list size 160
+Duration: 559186 nanoseconds
+2 read threads/2 write threads list size 160
+Duration: 529717 nanoseconds
+2 read threads/2 write threads list size 160
+Duration: 446208 nanoseconds
+2 read threads/2 write threads list size 160
+Duration: 497917 nanoseconds
+2 read threads/2 write threads list size 160
+Duration: 586046 nanoseconds
+2 read threads/2 write threads list size 160
+Duration: 507577 nanoseconds
+2 read threads/2 write threads list size 320
+Duration: 710725 nanoseconds
+2 read threads/2 write threads list size 320
+Duration: 791805 nanoseconds
+2 read threads/2 write threads list size 320
+Duration: 677596 nanoseconds
+2 read threads/2 write threads list size 320
+Duration: 662316 nanoseconds
+2 read threads/2 write threads list size 320
+Duration: 658566 nanoseconds
+2 read threads/2 write threads list size 320
+Duration: 659426 nanoseconds
+2 read threads/2 write threads list size 320
+Duration: 594486 nanoseconds
+2 read threads/2 write threads list size 320
+Duration: 660996 nanoseconds
+2 read threads/2 write threads list size 320
+Duration: 742826 nanoseconds
+2 read threads/2 write threads list size 320
+Duration: 715045 nanoseconds
+2 read threads/2 write threads list size 640
+Duration: 1037354 nanoseconds
+2 read threads/2 write threads list size 640
+Duration: 1060104 nanoseconds
+2 read threads/2 write threads list size 640
+Duration: 875275 nanoseconds
+2 read threads/2 write threads list size 640
+Duration: 1026004 nanoseconds
+2 read threads/2 write threads list size 640
+Duration: 1005434 nanoseconds
+2 read threads/2 write threads list size 640
+Duration: 1115093 nanoseconds
+2 read threads/2 write threads list size 640
+Duration: 1075443 nanoseconds
+2 read threads/2 write threads list size 640
+Duration: 1091214 nanoseconds
+2 read threads/2 write threads list size 640
+Duration: 1152753 nanoseconds
+2 read threads/2 write threads list size 640
+Duration: 924974 nanoseconds
+2 read threads/2 write threads list size 1280
+Duration: 1850249 nanoseconds
+2 read threads/2 write threads list size 1280
+Duration: 1859320 nanoseconds
+2 read threads/2 write threads list size 1280
+Duration: 1992288 nanoseconds
+2 read threads/2 write threads list size 1280
+Duration: 1901949 nanoseconds
+2 read threads/2 write threads list size 1280
+Duration: 2207847 nanoseconds
+2 read threads/2 write threads list size 1280
+Duration: 1463932 nanoseconds
+2 read threads/2 write threads list size 1280
+Duration: 1732990 nanoseconds
+2 read threads/2 write threads list size 1280
+Duration: 1910559 nanoseconds
+2 read threads/2 write threads list size 1280
+Duration: 1929789 nanoseconds
+2 read threads/2 write threads list size 1280
+Duration: 1498852 nanoseconds
+2 read threads/2 write threads list size 2560
+Duration: 3022982 nanoseconds
+2 read threads/2 write threads list size 2560
+Duration: 3439400 nanoseconds
+2 read threads/2 write threads list size 2560
+Duration: 3165562 nanoseconds
+2 read threads/2 write threads list size 2560
+Duration: 3487160 nanoseconds
+2 read threads/2 write threads list size 2560
+Duration: 3452870 nanoseconds
+2 read threads/2 write threads list size 2560
+Duration: 3457600 nanoseconds
+2 read threads/2 write threads list size 2560
+Duration: 3498021 nanoseconds
+2 read threads/2 write threads list size 2560
+Duration: 3400401 nanoseconds
+2 read threads/2 write threads list size 2560
+Duration: 3462620 nanoseconds
+2 read threads/2 write threads list size 2560
+Duration: 3532310 nanoseconds
+2 read threads/2 write threads list size 5120
+Duration: 6706652 nanoseconds
+2 read threads/2 write threads list size 5120
+Duration: 6451253 nanoseconds
+2 read threads/2 write threads list size 5120
+Duration: 4332196 nanoseconds
+2 read threads/2 write threads list size 5120
+Duration: 6607924 nanoseconds
+2 read threads/2 write threads list size 5120
+Duration: 4244886 nanoseconds
+2 read threads/2 write threads list size 5120
+Duration: 6678202 nanoseconds
+2 read threads/2 write threads list size 5120
+Duration: 4742693 nanoseconds
+2 read threads/2 write threads list size 5120
+Duration: 5725808 nanoseconds
+2 read threads/2 write threads list size 5120
+Duration: 5037542 nanoseconds
+2 read threads/2 write threads list size 5120
+Duration: 6402914 nanoseconds
+8 read threads/8 write threads list size 40
+Duration: 785425 nanoseconds
+8 read threads/8 write threads list size 40
+Duration: 799245 nanoseconds
+8 read threads/8 write threads list size 40
+Duration: 755266 nanoseconds
+8 read threads/8 write threads list size 40
+Duration: 878125 nanoseconds
+8 read threads/8 write threads list size 40
+Duration: 773247 nanoseconds
+8 read threads/8 write threads list size 40
+Duration: 870085 nanoseconds
+8 read threads/8 write threads list size 40
+Duration: 851666 nanoseconds
+8 read threads/8 write threads list size 40
+Duration: 794386 nanoseconds
+8 read threads/8 write threads list size 40
+Duration: 848676 nanoseconds
+8 read threads/8 write threads list size 40
+Duration: 743396 nanoseconds
+8 read threads/8 write threads list size 80
+Duration: 775976 nanoseconds
+8 read threads/8 write threads list size 80
+Duration: 936125 nanoseconds
+8 read threads/8 write threads list size 80
+Duration: 922185 nanoseconds
+8 read threads/8 write threads list size 80
+Duration: 777076 nanoseconds
+8 read threads/8 write threads list size 80
+Duration: 743706 nanoseconds
+8 read threads/8 write threads list size 80
+Duration: 805686 nanoseconds
+8 read threads/8 write threads list size 80
+Duration: 870085 nanoseconds
+8 read threads/8 write threads list size 80
+Duration: 839296 nanoseconds
+8 read threads/8 write threads list size 80
+Duration: 789275 nanoseconds
+8 read threads/8 write threads list size 80
+Duration: 958285 nanoseconds
+8 read threads/8 write threads list size 160
+Duration: 1123904 nanoseconds
+8 read threads/8 write threads list size 160
+Duration: 1084904 nanoseconds
+8 read threads/8 write threads list size 160
+Duration: 1325044 nanoseconds
+8 read threads/8 write threads list size 160
+Duration: 1274373 nanoseconds
+8 read threads/8 write threads list size 160
+Duration: 963625 nanoseconds
+8 read threads/8 write threads list size 160
+Duration: 944596 nanoseconds
+8 read threads/8 write threads list size 160
+Duration: 1136394 nanoseconds
+8 read threads/8 write threads list size 160
+Duration: 1024875 nanoseconds
+8 read threads/8 write threads list size 160
+Duration: 981245 nanoseconds
+8 read threads/8 write threads list size 160
+Duration: 1143085 nanoseconds
+8 read threads/8 write threads list size 320
+Duration: 2083460 nanoseconds
+8 read threads/8 write threads list size 320
+Duration: 2070910 nanoseconds
+8 read threads/8 write threads list size 320
+Duration: 1855440 nanoseconds
+8 read threads/8 write threads list size 320
+Duration: 2343479 nanoseconds
+8 read threads/8 write threads list size 320
+Duration: 1523272 nanoseconds
+8 read threads/8 write threads list size 320
+Duration: 1857821 nanoseconds
+8 read threads/8 write threads list size 320
+Duration: 2398728 nanoseconds
+8 read threads/8 write threads list size 320
+Duration: 1891611 nanoseconds
+8 read threads/8 write threads list size 320
+Duration: 1776172 nanoseconds
+8 read threads/8 write threads list size 320
+Duration: 1570803 nanoseconds
+8 read threads/8 write threads list size 640
+Duration: 4257999 nanoseconds
+8 read threads/8 write threads list size 640
+Duration: 4380249 nanoseconds
+8 read threads/8 write threads list size 640
+Duration: 4002701 nanoseconds
+8 read threads/8 write threads list size 640
+Duration: 3773471 nanoseconds
+8 read threads/8 write threads list size 640
+Duration: 3747122 nanoseconds
+8 read threads/8 write threads list size 640
+Duration: 4086771 nanoseconds
+8 read threads/8 write threads list size 640
+Duration: 3812132 nanoseconds
+8 read threads/8 write threads list size 640
+Duration: 4438779 nanoseconds
+8 read threads/8 write threads list size 640
+Duration: 3921021 nanoseconds
+8 read threads/8 write threads list size 640
+Duration: 3982741 nanoseconds
+8 read threads/8 write threads list size 1280
+Duration: 5308964 nanoseconds
+8 read threads/8 write threads list size 1280
+Duration: 5537444 nanoseconds
+8 read threads/8 write threads list size 1280
+Duration: 5897052 nanoseconds
+8 read threads/8 write threads list size 1280
+Duration: 6189021 nanoseconds
+8 read threads/8 write threads list size 1280
+Duration: 5687783 nanoseconds
+8 read threads/8 write threads list size 1280
+Duration: 6046642 nanoseconds
+8 read threads/8 write threads list size 1280
+Duration: 5825592 nanoseconds
+8 read threads/8 write threads list size 1280
+Duration: 5585583 nanoseconds
+8 read threads/8 write threads list size 1280
+Duration: 5917292 nanoseconds
+8 read threads/8 write threads list size 1280
+Duration: 5245145 nanoseconds
+8 read threads/8 write threads list size 2560
+Duration: 9380605 nanoseconds
+8 read threads/8 write threads list size 2560
+Duration: 13908694 nanoseconds
+8 read threads/8 write threads list size 2560
+Duration: 9869163 nanoseconds
+8 read threads/8 write threads list size 2560
+Duration: 11304746 nanoseconds
+8 read threads/8 write threads list size 2560
+Duration: 12159043 nanoseconds
+8 read threads/8 write threads list size 2560
+Duration: 9778225 nanoseconds
+8 read threads/8 write threads list size 2560
+Duration: 10926739 nanoseconds
+8 read threads/8 write threads list size 2560
+Duration: 13501108 nanoseconds
+8 read threads/8 write threads list size 2560
+Duration: 13200059 nanoseconds
+8 read threads/8 write threads list size 2560
+Duration: 11390187 nanoseconds
+8 read threads/8 write threads list size 5120
+Duration: 19217302 nanoseconds
+8 read threads/8 write threads list size 5120
+Duration: 19840647 nanoseconds
+8 read threads/8 write threads list size 5120
+Duration: 22081508 nanoseconds
+8 read threads/8 write threads list size 5120
+Duration: 20378355 nanoseconds
+8 read threads/8 write threads list size 5120
+Duration: 20223757 nanoseconds
+8 read threads/8 write threads list size 5120
+Duration: 19894487 nanoseconds
+8 read threads/8 write threads list size 5120
+Duration: 21153963 nanoseconds
+8 read threads/8 write threads list size 5120
+Duration: 21311732 nanoseconds
+8 read threads/8 write threads list size 5120
+Duration: 17819268 nanoseconds
+8 read threads/8 write threads list size 5120
+Duration: 20236517 nanoseconds
+8 read threads/8 write threads list size 5120
+Duration: 20857075 nanoseconds
+16 read threads/16 write threads list size 40
+Duration: 1285164 nanoseconds
+16 read threads/16 write threads list size 40
+Duration: 1406044 nanoseconds
+16 read threads/16 write threads list size 40
+Duration: 1698222 nanoseconds
+16 read threads/16 write threads list size 40
+Duration: 1309014 nanoseconds
+16 read threads/16 write threads list size 40
+Duration: 1372914 nanoseconds
+16 read threads/16 write threads list size 40
+Duration: 1394584 nanoseconds
+16 read threads/16 write threads list size 40
+Duration: 1286934 nanoseconds
+16 read threads/16 write threads list size 40
+Duration: 1318794 nanoseconds
+16 read threads/16 write threads list size 40
+Duration: 1366464 nanoseconds
+16 read threads/16 write threads list size 40
+Duration: 1346984 nanoseconds
+16 read threads/16 write threads list size 80
+Duration: 1398634 nanoseconds
+16 read threads/16 write threads list size 80
+Duration: 1422574 nanoseconds
+16 read threads/16 write threads list size 80
+Duration: 1446724 nanoseconds
+16 read threads/16 write threads list size 80
+Duration: 1468723 nanoseconds
+16 read threads/16 write threads list size 80
+Duration: 1399254 nanoseconds
+16 read threads/16 write threads list size 80
+Duration: 1356175 nanoseconds
+16 read threads/16 write threads list size 80
+Duration: 1385794 nanoseconds
+16 read threads/16 write threads list size 80
+Duration: 1395974 nanoseconds
+16 read threads/16 write threads list size 80
+Duration: 1412503 nanoseconds
+16 read threads/16 write threads list size 80
+Duration: 1450533 nanoseconds
+16 read threads/16 write threads list size 160
+Duration: 1778973 nanoseconds
+16 read threads/16 write threads list size 160
+Duration: 1572953 nanoseconds
+16 read threads/16 write threads list size 160
+Duration: 1707272 nanoseconds
+16 read threads/16 write threads list size 160
+Duration: 1750702 nanoseconds
+16 read threads/16 write threads list size 160
+Duration: 1733633 nanoseconds
+16 read threads/16 write threads list size 160
+Duration: 1570083 nanoseconds
+16 read threads/16 write threads list size 160
+Duration: 1611762 nanoseconds
+16 read threads/16 write threads list size 160
+Duration: 1630413 nanoseconds
+16 read threads/16 write threads list size 160
+Duration: 1789922 nanoseconds
+16 read threads/16 write threads list size 160
+Duration: 1692873 nanoseconds
+16 read threads/16 write threads list size 320
+Duration: 2759578 nanoseconds
+16 read threads/16 write threads list size 320
+Duration: 2423530 nanoseconds
+16 read threads/16 write threads list size 320
+Duration: 2570809 nanoseconds
+16 read threads/16 write threads list size 320
+Duration: 2243281 nanoseconds
+16 read threads/16 write threads list size 320
+Duration: 2399950 nanoseconds
+16 read threads/16 write threads list size 320
+Duration: 2579219 nanoseconds
+16 read threads/16 write threads list size 320
+Duration: 2367580 nanoseconds
+16 read threads/16 write threads list size 320
+Duration: 2570589 nanoseconds
+16 read threads/16 write threads list size 320
+Duration: 2539249 nanoseconds
+16 read threads/16 write threads list size 320
+Duration: 2003681 nanoseconds
+16 read threads/16 write threads list size 640
+Duration: 5481598 nanoseconds
+16 read threads/16 write threads list size 640
+Duration: 4979219 nanoseconds
+16 read threads/16 write threads list size 640
+Duration: 5021909 nanoseconds
+16 read threads/16 write threads list size 640
+Duration: 4568012 nanoseconds
+16 read threads/16 write threads list size 640
+Duration: 4804960 nanoseconds
+16 read threads/16 write threads list size 640
+Duration: 6157684 nanoseconds
+16 read threads/16 write threads list size 640
+Duration: 5183919 nanoseconds
+16 read threads/16 write threads list size 640
+Duration: 5479757 nanoseconds
+16 read threads/16 write threads list size 640
+Duration: 5410127 nanoseconds
+16 read threads/16 write threads list size 640
+Duration: 4799970 nanoseconds
+16 read threads/16 write threads list size 1280
+Duration: 8155763 nanoseconds
+16 read threads/16 write threads list size 1280
+Duration: 8416161 nanoseconds
+16 read threads/16 write threads list size 1280
+Duration: 8595106 nanoseconds
+16 read threads/16 write threads list size 1280
+Duration: 10372311 nanoseconds
+16 read threads/16 write threads list size 1280
+Duration: 7787948 nanoseconds
+16 read threads/16 write threads list size 1280
+Duration: 8552621 nanoseconds
+16 read threads/16 write threads list size 1280
+Duration: 8350649 nanoseconds
+16 read threads/16 write threads list size 1280
+Duration: 10506641 nanoseconds
+16 read threads/16 write threads list size 1280
+Duration: 8097733 nanoseconds
+16 read threads/16 write threads list size 1280
+Duration: 13605753 nanoseconds
+16 read threads/16 write threads list size 2560
+Duration: 16578258 nanoseconds
+16 read threads/16 write threads list size 2560
+Duration: 15881247 nanoseconds
+16 read threads/16 write threads list size 2560
+Duration: 14995486 nanoseconds
+16 read threads/16 write threads list size 2560
+Duration: 12628168 nanoseconds
+16 read threads/16 write threads list size 2560
+Duration: 13319181 nanoseconds
+16 read threads/16 write threads list size 2560
+Duration: 14032171 nanoseconds
+16 read threads/16 write threads list size 2560
+Duration: 12033571 nanoseconds
+16 read threads/16 write threads list size 2560
+Duration: 14014633 nanoseconds
+16 read threads/16 write threads list size 2560
+Duration: 14451916 nanoseconds
+16 read threads/16 write threads list size 2560
+Duration: 15240132 nanoseconds
+16 read threads/16 write threads list size 5120
+Duration: 24991130 nanoseconds
+16 read threads/16 write threads list size 5120
+Duration: 22775044 nanoseconds
+16 read threads/16 write threads list size 5120
+Duration: 24632720 nanoseconds
+16 read threads/16 write threads list size 5120
+Duration: 25059088 nanoseconds
+16 read threads/16 write threads list size 5120
+Duration: 24108667 nanoseconds
+16 read threads/16 write threads list size 5120
+Duration: 24978378 nanoseconds
+16 read threads/16 write threads list size 5120
+Duration: 24836379 nanoseconds
+16 read threads/16 write threads list size 5120
+Duration: 24622397 nanoseconds
+16 read threads/16 write threads list size 5120
+Duration: 23152932 nanoseconds
+16 read threads/16 write threads list size 5120
+Duration: 26358767 nanoseconds

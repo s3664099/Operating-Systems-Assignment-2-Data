@@ -1,0 +1,3343 @@
+First Fit
+
+
+
+Reading list size - 40, 0 Times
+Duration: 17710 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 17760 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 17870 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 17610 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 17601 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 17750 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 12010 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 17780 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 11830 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 11840 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 36650 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 19711 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 36601 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 24501 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 36701 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 36431 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 36801 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 24451 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 26740 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 36311 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 72482 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 48631 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 49881 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 72412 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 73051 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 67612 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 72411 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 56361 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 49361 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 72442 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 144293 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 81182 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 96022 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 143923 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 96662 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 145213 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 96742 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 144253 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 144583 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 143993 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 288855 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 287125 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 287545 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 289945 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 303836 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 193634 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 287095 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 290466 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 192484 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 287795 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 574500 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 573490 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 575600 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 386967 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 310685 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 390587 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 391247 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 415198 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 577721 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 551330 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 1159270 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 804294 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 776733 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 1156550 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 914455 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 775653 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 1159600 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 779414 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 1158190 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 1159590 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 1041787 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 1688799 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 1547736 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 1538936 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 2324009 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 2309049 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 1402334 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 1875682 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 2249037 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 1546496 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 332995 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 298214 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 378965 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 343844 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 375615 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 261713 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 373335 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 428225 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 368635 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 368565 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 180442 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 197793 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 216522 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 126921 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 214233 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 203372 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 235222 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 239303 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 239713 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 238433 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 185612 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 170322 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 248362 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 285353 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 246353 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 289263 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 289054 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 264763 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 253163 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 181042 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 256893 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 395374 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 347614 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 278453 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 395805 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 357654 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 222772 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 369134 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 377574 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 383214 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 552205 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 570036 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 620746 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 601086 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 570886 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 611077 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 680017 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 624236 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 428664 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 586506 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 1191502 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 787538 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 1184121 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 1132940 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 878418 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 1225572 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 803887 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 777447 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 1171481 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 1194322 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 3311169 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 3364020 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 3500172 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 2949056 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 3346319 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 2230090 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 2300221 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 2375161 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 3423120 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 2302390 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 9361359 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 12545975 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 11570387 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 9565560 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 10112794 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 7565662 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 9424578 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 10117354 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 9121325 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 9684050 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 265382 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 229952 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 173981 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 254352 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 176871 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 211752 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 179891 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 192281 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 174681 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 153011 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 210762 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 201311 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 249842 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 201091 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 226732 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 344373 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 321832 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 236391 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 199562 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 283071 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 292752 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 237651 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 444362 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 304352 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 314092 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 342892 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 2079613 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 429722 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 304332 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 264782 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 724434 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 695364 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 620453 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 568993 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 654174 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 667714 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 573243 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 565373 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 398812 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 707304 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 1253757 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 1217046 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 450952 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 1229446 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 1117516 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 1269897 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 1223886 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 786004 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 436623 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 730994 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 2383602 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 2719803 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 1952009 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 2759163 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 2471471 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 2730193 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 2921683 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 2902123 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 840804 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 2219041 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 5414523 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 5381022 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 5481703 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 5383813 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 6754439 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 3524685 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 4732589 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 5332892 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 3987066 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 6106755 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 17945626 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 14147299 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 11501770 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 7568805 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 10338714 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 13586013 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 11928257 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 15660067 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 538322 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 249061 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 256950 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 331270 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 200560 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 446192 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 318381 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 1954965 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 178380 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 173991 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 322721 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 3422178 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 238820 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 1609003 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 3197307 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 233310 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 460691 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 297171 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 400281 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 545501 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 2256204 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 713441 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 1880374 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 1058161 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 634421 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 1389013 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 708321 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 644331 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 557361 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 337671 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 1713173 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 1026461 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 1139191 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 1593262 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 410581 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 4530916 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 1888163 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 1445712 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 961081 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 968551 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 3433912 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 4826114 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 1337851 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 4564495 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 1954202 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 2134852 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 472420 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 1674671 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 2812342 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 3525662 nanoseconds
+
+Reading list size - 1260, 4 Times
+Duration: 6331672 nanoseconds
+
+Reading list size - 1260, 4 Times
+Duration: 6928472 nanoseconds
+
+Reading list size - 1260, 4 Times
+Duration: 1816760 nanoseconds
+
+Reading list size - 1260, 4 Times
+Duration: 1113560 nanoseconds
+
+Reading list size - 1260, 4 Times
+Duration: 5751351 nanoseconds
+
+Reading list size - 1260, 4 Times
+Duration: 6296269 nanoseconds
+
+Reading list size - 1260, 4 Times
+Duration: 10074448 nanoseconds
+
+Reading list size - 1260, 4 Times
+Duration: 6673069 nanoseconds
+
+Reading list size - 1260, 4 Times
+Duration: 1983320 nanoseconds
+
+Reading list size - 1260, 4 Times
+Duration: 9460666 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 7345953 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 5593294 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 4448215 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 1725858 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 5141603 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 3816315 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 7698201 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 4921745 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 1206949 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 4214514 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 4804303 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 5227003 nanoseconds
+
+Reading list size - 5120, 4 Times
+Duration: 3459484 nanoseconds
+
+Reading list size - 5120, 4 Times
+Duration: 6493037 nanoseconds
+
+Reading list size - 5120, 4 Times
+Duration: 9583871 nanoseconds
+
+Reading list size - 5120, 4 Times
+Duration: 9502501 nanoseconds
+
+Reading list size - 5120, 4 Times
+Duration: 7932624 nanoseconds
+
+Reading list size - 5120, 4 Times
+Duration: 4364161 nanoseconds
+
+Reading list size - 5120, 4 Times
+Duration: 10077908 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 2589753 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 399249 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 335269 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 326609 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 361430 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 333429 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 426429 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 465189 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 511909 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 434309 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 412499 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 2149265 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 453138 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 326119 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 483129 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 1814615 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 305859 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 443639 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 702428 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 859418 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 1289586 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 4640716 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 1228147 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 1247307 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 1246107 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 703018 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 941077 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 905828 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 326549 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 2665072 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 918757 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 1863724 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 847158 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 2220213 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 2792531 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 1385585 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 1274226 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 902717 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 1893104 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 4000056 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 4361296 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 4799103 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 4701344 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 4522304 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 4191595 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 3935847 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 4424604 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 3237289 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 7619131 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 8556507 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 8858854 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 7437470 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 7934175 nanoseconds
+
+Reading list size - 2560, 8 Times
+Duration: 5180957 nanoseconds
+
+Best Fit
+
+Reading list size - 40, 0 Times
+Duration: 11930 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 17660 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 17780 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 17750 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 17610 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 11810 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 11840 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 17610 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 17690 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 17900 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 36490 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 24680 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 24760 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 36590 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 24500 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 36940 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 37050 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 36459 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 36439 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 36470 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 72309 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 72369 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 72630 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 48500 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 48460 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 72349 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 72740 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 72330 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 73670 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 72330 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 96349 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 144389 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 146149 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 149649 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 134609 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 144280 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 131920 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 144729 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 144269 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 144480 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 288168 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 301678 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 197279 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 288638 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 287388 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 287828 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 199069 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 288348 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 194708 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 287778 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 592387 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 387928 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 565826 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 606136 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 580056 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 575757 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 327388 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 385118 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 443587 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 387688 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 1153882 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 771045 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 1152452 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 1155893 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 773835 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 780544 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 1155012 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 954294 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 1152123 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 1162832 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 2311154 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 2533273 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 2305835 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 2303744 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 1563539 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 1550569 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 2048896 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 2340744 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 1545310 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 2323404 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 193728 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 220048 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 187839 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 157259 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 125899 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 187098 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 157969 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 182598 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 175179 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 209448 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 224908 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 147489 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 163599 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 241398 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 162558 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 172318 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 202059 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 181208 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 177559 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 140119 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 350257 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 233428 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 219668 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 187998 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 260488 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 169889 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 274108 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 191688 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 192439 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 171819 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 367297 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 362066 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 383966 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 338007 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 340987 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 362607 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 392626 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 398036 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 382286 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 380307 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 522395 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 602705 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 420926 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 603424 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 545375 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 259308 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 411986 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 411406 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 585994 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 409956 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 1125749 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 1121929 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 1063670 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 1154319 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 1102689 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 1066890 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 1121579 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 1099300 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 1108660 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 1062990 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 3391037 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 2845393 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 3248140 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 3606935 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 3334668 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 3360087 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 3299869 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 3328989 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 3277319 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 3280279 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 9005874 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 12012665 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 10378200 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 12393461 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 12128733 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 12998624 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 11028454 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 12164483 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 10592538 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 11917874 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 223998 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 169028 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 201468 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 232048 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 235887 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 195918 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 278348 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 193978 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 231448 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 165899 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 200558 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 204088 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 247617 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 201738 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 190728 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 237657 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 244527 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 316387 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 235818 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 322336 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 430716 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 291767 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 264577 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 527625 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 254517 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 493045 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 238828 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 294957 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 493286 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 287917 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 714023 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 428866 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 356597 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 336976 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 405796 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 393986 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 401196 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 398006 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 422866 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 395046 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 957241 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 1181608 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 1367996 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 608364 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 1309067 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 800552 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 1306377 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 1343576 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 612833 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 616974 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 1148238 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 1136848 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 1087119 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 2715102 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 2880341 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 914241 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 1133379 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 2724843 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 2926421 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 1103389 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 6154198 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 3347805 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 5686433 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 3547224 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 6261707 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 6419275 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 3275197 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 6259517 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 5598433 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 3306347 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 19330563 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 20847107 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 12335074 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 17107945 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 19428681 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 16631799 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 13412882 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 17313213 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 13364533 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 278507 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 372566 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 432356 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 322516 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 145558 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 361757 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 212748 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 304837 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 404455 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 257178 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 432966 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 715643 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 867891 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 257767 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 644964 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 319426 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 640093 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 617523 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 596504 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 538435 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 651684 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 379916 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 279707 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 1113088 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 1029959 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 1019739 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 331936 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 349537 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 285477 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 278587 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 1909190 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 1966620 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 1954129 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 1891700 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 1715302 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 382086 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 1796071 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 1831301 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 2050168 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 1787581 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 3326095 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 3376125 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 3598041 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 595544 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 2947028 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 3758630 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 3790199 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 3334835 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 3564522 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 3784970 nanoseconds
+
+Reading list size - 1280, 4 Times
+Duration: 7595239 nanoseconds
+
+Reading list size - 1280, 4 Times
+Duration: 1193537 nanoseconds
+
+Reading list size - 1280, 4 Times
+Duration: 1294576 nanoseconds
+
+Reading list size - 1280, 4 Times
+Duration: 1390965 nanoseconds
+
+Reading list size - 1280, 4 Times
+Duration: 1343595 nanoseconds
+
+Reading list size - 1280, 4 Times
+Duration: 4640270 nanoseconds
+
+Reading list size - 1280, 4 Times
+Duration: 6528660 nanoseconds
+
+Reading list size - 1280, 4 Times
+Duration: 1119628 nanoseconds
+
+Reading list size - 1280, 4 Times
+Duration: 2034778 nanoseconds
+
+Reading list size - 1280, 4 Times
+Duration: 7571619 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 3336213 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 3287704 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 5668039 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 3412203 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 10783874 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 5560880 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 5214293 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 3280644 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 762222 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 494324 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 538575 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 319517 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 471595 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 472475 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 444695 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 457555 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 414576 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 735112 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 609784 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 489465 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 542794 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 915140 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 402935 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 433595 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 847921 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 908410 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 391416 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 817610 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 522584 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 580654 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 656773 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 1688461 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 1322896 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 1662031 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 1000739 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 1062538 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 536364 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 1229837 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 2034968 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 2517592 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 3044246 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 1595912 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 2848989 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 2181786 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 2749590 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 2835299 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 500784 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 2413873 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 2808339 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 5216191 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 5065692 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 4657387 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 6333049 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 699382 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 5059453 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 6461637 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 6591606 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 6019951 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 4186313 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 10284813 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 10638959 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 1269026 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 1267865 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 1320975 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 8244996 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 11406340 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 4196282 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 1728900 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 1189737 nanoseconds
+
+Reading list size - 2560, 8 Times
+Duration: 10908855 nanoseconds
+
+Worst Fit
+
+Reading list size - 40, 0 Times
+Duration: 17000 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 16880 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 17030 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 17000 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 17080 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 17050 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 16980 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 17080 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 17010 nanoseconds
+
+Reading list size - 40, 0 Times
+Duration: 17050 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 35729 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 35529 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 35339 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 35160 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 35080 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 35290 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 34960 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 35849 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 35060 nanoseconds
+
+Reading list size - 80, 0 Times
+Duration: 35809 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 72699 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 69889 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 69769 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 70459 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 70019 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 69719 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 69790 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 69759 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 70529 nanoseconds
+
+Reading list size - 160, 0 Times
+Duration: 69829 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 138618 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 138629 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 138508 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 138398 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 138458 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 147318 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 138478 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 138829 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 138559 nanoseconds
+
+Reading list size - 320, 0 Times
+Duration: 138698 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 276087 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 277667 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 276517 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 280177 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 277237 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 277777 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 279937 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 280567 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 276807 nanoseconds
+
+Reading list size - 640, 0 Times
+Duration: 279647 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 562243 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 608123 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 589053 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 572373 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 479044 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 579673 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 552504 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 583973 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 574893 nanoseconds
+
+Reading list size - 1280, 0 Times
+Duration: 553154 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 1112637 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 1112857 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 1114267 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 1109247 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 773361 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 1158716 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 1116217 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 1161857 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 1157107 nanoseconds
+
+Reading list size - 2560, 0 Times
+Duration: 1114947 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 2223784 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 2221414 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 2220924 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 2229004 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 2214413 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 2215804 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 2225224 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 2305803 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 2216484 nanoseconds
+
+Reading list size - 5120, 0 Times
+Duration: 966999 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 379807 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 196524 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 158863 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 190533 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 183324 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 193744 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 196363 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 150152 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 195973 nanoseconds
+
+Reading list size - 40, 1 Times
+Duration: 207874 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 216324 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 213644 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 219454 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 236754 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 210694 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 223014 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 213004 nanoseconds
+
+Reading list size - 80, 1 Times
+Duration: 209884 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 276735 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 327956 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 259115 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 257285 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 263124 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 255974 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 212454 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 529309 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 261015 nanoseconds
+
+Reading list size - 160, 1 Times
+Duration: 268754 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 386356 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 396427 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 392427 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 366126 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 324655 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 351686 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 320365 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 388436 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 372956 nanoseconds
+
+Reading list size - 320, 1 Times
+Duration: 367056 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 596009 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 549968 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 581859 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 603259 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 555978 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 583319 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 587629 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 877723 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 578689 nanoseconds
+
+Reading list size - 640, 1 Times
+Duration: 609199 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 1123166 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 755812 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 1131217 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 1066996 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 1064146 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 1066156 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 1108386 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 1067215 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 1064755 nanoseconds
+
+Reading list size - 1280, 1 Times
+Duration: 1117636 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 3317625 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 3267694 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 3267884 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 3286574 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 3406896 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 3291094 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 3333575 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 3258144 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 3167663 nanoseconds
+
+Reading list size - 2560, 1 Times
+Duration: 3232294 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 12275870 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 9439303 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 13260854 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 10483066 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 11694822 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 12167579 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 13064420 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 13147610 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 10381065 nanoseconds
+
+Reading list size - 5120, 1 Times
+Duration: 13122609 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 176381 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 229512 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 281193 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 243733 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 459314 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 262083 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 243252 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 248562 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 290773 nanoseconds
+
+Reading list size - 40, 2 Times
+Duration: 213982 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 351253 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 193732 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 333523 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 241562 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 305913 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 222412 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 357664 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 198122 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 319703 nanoseconds
+
+Reading list size - 80, 2 Times
+Duration: 260363 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 329243 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 521284 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 515375 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 397764 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 330413 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 446064 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 321782 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 283963 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 327343 nanoseconds
+
+Reading list size - 160, 2 Times
+Duration: 468784 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 617945 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 778706 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 755766 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 415853 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 693496 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 423313 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 549205 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 785937 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 728066 nanoseconds
+
+Reading list size - 320, 2 Times
+Duration: 628576 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 1289680 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 1237620 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 619745 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 1103839 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 614324 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 1168099 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 1120338 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 1181529 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 1112479 nanoseconds
+
+Reading list size - 640, 2 Times
+Duration: 621515 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 1932794 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 2712660 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 1996245 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 2694000 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 2762221 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 2430128 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 2739350 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 1280559 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 2369937 nanoseconds
+
+Reading list size - 1280, 2 Times
+Duration: 1960415 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 5156876 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 6858948 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 6346264 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 3480034 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 3405534 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 3320403 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 5858211 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 5098785 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 6221694 nanoseconds
+
+Reading list size - 2560, 2 Times
+Duration: 3362094 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 16321609 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 10281258 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 14479976 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 13159817 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 14984918 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 17330493 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 17836304 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 11651445 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 16460684 nanoseconds
+
+Reading list size - 5120, 2 Times
+Duration: 19767746 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 239891 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 276102 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 453963 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 241042 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 314262 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 482073 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 242462 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 213241 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 424792 nanoseconds
+
+Reading list size - 40, 4 Times
+Duration: 480843 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 503618 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 447218 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 301398 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 397858 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 306538 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 575597 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 395978 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 329018 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 371819 nanoseconds
+
+Reading list size - 80, 4 Times
+Duration: 459128 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 334039 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 698986 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 1036075 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 1029275 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 332249 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 945656 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 969746 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 900936 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 1200014 nanoseconds
+
+Reading list size - 160, 4 Times
+Duration: 1029345 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 2019210 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 1989750 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 437627 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 383899 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 2124270 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 430367 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 1975880 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 1885431 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 1602612 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 2106540 nanoseconds
+
+Reading list size - 320, 4 Times
+Duration: 1236204 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 601407 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 3264324 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 631657 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 3265894 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 3754401 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 609928 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 590407 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 3847981 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 646577 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 3601332 nanoseconds
+
+Reading list size - 640, 4 Times
+Duration: 3745651 nanoseconds
+
+Reading list size - 1280, 4 Times
+Duration: 1241543 nanoseconds
+
+Reading list size - 1280, 4 Times
+Duration: 1261593 nanoseconds
+
+Reading list size - 1280, 4 Times
+Duration: 6696626 nanoseconds
+
+Reading list size - 1280, 4 Times
+Duration: 1344783 nanoseconds
+
+Reading list size - 1280, 4 Times
+Duration: 5438352 nanoseconds
+
+Reading list size - 1280, 4 Times
+Duration: 1223064 nanoseconds
+
+Reading list size - 1280, 4 Times
+Duration: 6800296 nanoseconds
+
+Reading list size - 1280, 4 Times
+Duration: 1171245 nanoseconds
+
+Reading list size - 1280, 4 Times
+Duration: 6690275 nanoseconds
+
+Reading list size - 1280, 4 Times
+Duration: 6589887 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 4904554 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 5843490 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 5428682 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 8543145 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 5444061 nanoseconds
+
+Reading list size - 2560, 4 Times
+Duration: 4475906 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 547047 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 487837 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 942395 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 558727 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 522728 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 441868 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 508927 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 408118 nanoseconds
+
+Reading list size - 40, 8 Times
+Duration: 881915 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 614597 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 792816 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 839816 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 410567 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 425668 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 767015 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 419408 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 424398 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 402958 nanoseconds
+
+Reading list size - 80, 8 Times
+Duration: 439538 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 1274413 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 1123483 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 1233993 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 423927 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 862195 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 1348873 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 494037 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 868646 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 940935 nanoseconds
+
+Reading list size - 160, 8 Times
+Duration: 410278 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 2479896 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 3168743 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 2846204 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 3131473 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 3217822 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 1852290 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 2835844 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 2422166 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 2599326 nanoseconds
+
+Reading list size - 320, 8 Times
+Duration: 2726695 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 4758784 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 6098045 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 5228071 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 4940192 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 1571191 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 4735714 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 6025847 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 5990606 nanoseconds
+
+Reading list size - 640, 8 Times
+Duration: 1819510 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 8760391 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 9072328 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 10043112 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 9045488 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 1242663 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 1259553 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 8026594 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 1253912 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 1288663 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 1813299 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 4519894 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 9125337 nanoseconds
+
+Reading list size - 1280, 8 Times
+Duration: 1274993 nanoseconds
+
+Reading list size - 2560, 8 Times
+Duration: 3392290 nanoseconds
+
+Reading list size - 2560, 8 Times
+Duration: 3599519 nanoseconds
+
+Reading list size - 2560, 8 Times
+Duration: 3357740 nanoseconds
+
+Reading list size - 2560, 8 Times
+Duration: 3623489 nanoseconds
+
+Reading list size - 2560, 8 Times
+Duration: 3353060 nanoseconds
